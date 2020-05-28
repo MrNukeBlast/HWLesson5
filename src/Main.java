@@ -10,7 +10,7 @@ public class Main {
         employes[4] = new Employee("Блин Олег Свиридович ", " Гардеробщик ", " blin.oleg@test.com ", "+213546789", " 3000000 ", 21);
 
 
-//        employes[0].employeeInfo();
+       employes[0].employeeInfo();
 
 //Цыкл для вывода сотрудников по возросту.
         for (int i = 0; i < employes.length; i++) {
